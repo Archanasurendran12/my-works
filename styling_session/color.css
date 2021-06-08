@@ -1,0 +1,144 @@
+body{
+
+    background-color:black;
+
+}
+.main-header{
+    text-align: center;
+color: white;
+}
+div{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    float: left;
+    
+}
+.first{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: grey;
+}
+.second{
+    margin-left: 12px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkolivegreen;
+}
+.third{
+    margin-left: 12px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkgreen;
+}
+.forth{
+    margin-left: 12px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(0, 252, 34);
+}
+.fifth{
+    margin-left: 12px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightgray;
+}
+.firstr{
+    margin-left: 299px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: orange;
+}
+.secondr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(255, 72, 0);
+}
+.thirdr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightpink;
+}
+.forthr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkslateblue;
+}
+.fifthr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkviolet;
+}
+.sixthr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkslateblue;
+}
+.sevenr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightslategrey;
+}
+.firstrr{
+    margin-left: 195px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightskyblue;
+}
+.secondrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightgreen;
+}
+.thirdrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(255, 208, 0);
+}
+.forthrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkorchid;
+}
+.fifthrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(204, 50, 50);
+}
+.sixthrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: lightgreen;
+}
+.sevenrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(119, 153, 147);
+}
+.eigrr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: darkslateblue;
+}
+.ninerr{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: rgb(204, 50, 191);
+}
+
+
