@@ -1,0 +1,28 @@
+.row{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(118, 95, 160);
+    display: flex;
+    flex-direction: column;
+}
+.col{
+    width: 100px;
+    height: 150px;
+}
+.col:nth-child(1){
+    background-color: red;
+}
+.col:nth-child(2){
+    background-color: green;
+}
+.col:nth-child(3){
+    background-color: yellow;
+}
+@media(max-width:500px){
+    .row{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+
+    }
+}
